@@ -11,7 +11,7 @@
 
 ## 使用
 
-参考[example.py](https://github.com/bojone/CDial-GPT-tf/blob/master/example.py)。
+参考[example.py](https://github.com/bojone/CDial-GPT-tf/blob/master/example.py)。关于输入格式，请参考原版项目介绍。
 
 ## 交流
 
