@@ -13,6 +13,8 @@
 
 参考[example.py](https://github.com/bojone/CDial-GPT-tf/blob/master/example.py)。关于输入格式，请参考原版项目介绍。
 
+bert4keras >= 0.9.3
+
 ## 交流
 
 QQ交流群：67729435，微信群请加机器人微信号spaces_ac_cn
