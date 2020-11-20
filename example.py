@@ -21,7 +21,7 @@ speakers = [
 model = build_transformer_model(
     config_path=config_path,
     checkpoint_path=checkpoint_path,
-    model='gpt_openai'
+    model='gpt'
 )  # 建立模型，加载权重
 
 
